@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bernina_614_dslr
+* source:	https://sketchfab.com/3d-models/bernina-614-dslr-69a5c393c8d840cf86cd45b25cace56d
+* author:	cmb (https://sketchfab.com/mocajava003)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bernina_614_dslr" (https://sketchfab.com/3d-models/bernina-614-dslr-69a5c393c8d840cf86cd45b25cace56d) by cmb (https://sketchfab.com/mocajava003) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
